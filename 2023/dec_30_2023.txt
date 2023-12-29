@@ -166,3 +166,27 @@ hate to admit it.
 
 But here goes.
 
+Break
+
+05:36 AM
+
+So I managed to learn how to use the ADB Fastboot software in Linux. 
+Apparantely it's already installed.
+Maybe from my previous attempts.
+The difference between Linux and Windows is that
+I can call on ADB fastboot whichever folder my rom or recovery
+is currently located. 
+
+Anyways, so after several attempts in falshing
+TWRP instead of OrangeFox Recovery on my old phone. 
+It finally went through but it seems that it's still
+giving me the trouble. It's still literally blinking
+and won't get me to the main part of the program itself.
+
+I'm now thinking that maybe I should flash the old
+vanilla rom and recovery on this one and close out the
+bootloader. 
+
+Thinking.
+
+Break 
