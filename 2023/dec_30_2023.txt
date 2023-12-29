@@ -2,23 +2,37 @@
 
 I am sick today. 
 I woke up with a stuffy nose. 
-I actually couldn't sleep in the first place because I felt sick the day before. 
+I actually couldn't sleep in the first place 
+because I felt sick the day before. 
 I guess that's what they call as malaise. 
-I have been staying up late until 3pm just to wait for parcels to get delivered. 
-I also think that I have been lax in wearing my facial mask since I wanted to show off my glorious beard.
-I've impulsively bought an office chair that was on sale. It was originally for eight thousand pesos and it was up for sale for around two thousand pesos.
+I have been staying up late until 3pm just to wait 
+for parcels to get delivered. 
+I also think that I have been lax in wearing my 
+facial mask since I wanted to show off my glorious 
+beard.
+I've impulsively bought an office chair that was on
+ sale. It was originally for eight thousand pesos and it was up for sale for around two thousand pesos.
 That's including shipping.
 I've been dreading getting sick since November. 
-I hate the paper work associated with it especially when it's critical working days for Amazon.
-I even mulled going there at 3 AM but that would mean me being selfish and getting other people sick.
+I hate the paper work associated with it especially
+ when it's critical working days for Amazon.
+I even mulled going there at 3 AM but that would
+ mean me being selfish and getting other people sick.
 Anyways, I decided not to go and take care of myself. 
-I'm currently waiting for my porkchops and hotdogs to thaw. 
-I'm going to make scrambled eggs also since I don't want to make the onions and garlic to go to waste.
+I'm currently waiting for my porkchops and hotdogs
+ to thaw. 
+I'm going to make scrambled eggs also since I don't
+ want to make the onions and garlic to go to waste.
 
-I also decided to work on my projects. Start the year right by starting the two days early, I figured.
-I have a new phone and I've been dreading putting up Git on it. 
-Right now I'm on my Thinkpad x260 and started this thought repository. 
-I figured that I can also flex my old git muscles by using git in a non-traditional way. 
+I also decided to work on my projects.
+Start the year right by starting the two days early,
+I figured.
+I have a new phone and I've been dreading putting up 
+Git on it. 
+Right now I'm on my Thinkpad x260 and started this 
+thought repository. 
+I figured that I can also flex my old git muscles by 
+using git in a non-traditional way. 
 
 Just my thoughts. No audience. Just me. 
 
@@ -29,7 +43,9 @@ Break
 Got distracted. 
 Instead of cooking I was just browsing Reddit.
 So I installed the Reddit app. 
-I have, however, retained the Redreader app since it doesn't autoplay videos and also has the chat function disabled. 
+I have, however, retained the Redreader app since it 
+doesn't autoplay videos and also has the chat 
+function disabled. 
 
 Anyways, I need to cook. Wish me luck.
 
@@ -41,12 +57,16 @@ I'm currently listenting to Procupine Tree.
 Thank you Spotify. 
 I wouldn't have heard of this band without it.
 
-Currently waiting for my brown rice to come through the microwave. 
+Currently waiting for my brown rice to come through 
+the microwave. 
 3 minutes on high.
-I wonder if the resistant starch would still take effect if I do that ...
-Done a quick Google search and it seems that the scientific name for this is "starch retrogradation"
-which increases resistant starch content. Ant it seems that reheating it lowered glycemic response
-compared with with freshly cooked rice. 
+I wonder if the resistant starch would still take 
+effect if I do that ...
+Done a quick Google search and it seems that the 
+scientific name for this is "starch retrogradation"
+which increases resistant starch content. 
+And it seems that reheating it lowered glycemic 
+response compared with with freshly cooked rice. 
 
 Whatever that means.
 
@@ -56,7 +76,9 @@ Break
 
 It's time to eat the frog. 
 
-Going to conenct my Xiaomi Mi 13T to my Github repository.
+Going to conenct my Xiaomi Mi 13T to my Github 
+repository.
+
 I hope my old brain muscles are still up to it.
 
 Break
@@ -67,6 +89,28 @@ So I've successfully set up Git.
 
 That wasn't so bad. 
 
-Now let me check if it's best to clone or to push an existing repository from the command line
+Now let me check if it's best to clone or to push 
+an existing repository from the command line
 for 'thoughts' and 'code' repository.
+
+Break
+
+04:06 AM
+
+So I'm no on my 13T. 
+
+I've made some edits on the text to make it phone
+friendly. 
+
+I've used the "code clone" funcction for git.
+
+The other method didn't work out for me.
+
+Let me end this thought and try the add/commit/push
+function.
+
+See you on the other side.
+
+Break
+
 
