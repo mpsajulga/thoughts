@@ -31,5 +31,5 @@ But the only userbase is me.
 
 And my thoughts.
 My depression.
-My anxiety
+My anxiety.
 My ADHD.
