@@ -52,3 +52,21 @@ Whatever that means.
 
 Break
 
+03:42 AM
+
+It's time to eat the frog. 
+
+Going to conenct my Xiaomi Mi 13T to my Github repository.
+I hope my old brain muscles are still up to it.
+
+Break
+
+03:56 AM
+
+So I've successfully set up Git.
+
+That wasn't so bad. 
+
+Now let me check if it's best to clone or to push an existing repository from the command line
+for 'thoughts' and 'code' repository.
+
