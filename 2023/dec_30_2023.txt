@@ -150,3 +150,19 @@ I hope.
 Break
 
 
+04:58 AM
+
+On to the next project.
+
+My old Xiaomi Note 10 Lite has a small problem.
+I cannot seem to go to Orange Fox Recovery upon 
+boot up. 
+I have already tried multiple times and it seems
+that it only literally flashes and is on a boot loop
+The plan now is to relearn how to us ADB but this 
+time on Linux. I learned how to install and use it
+on Windows. It was straightforward, as much as I 
+hate to admit it. 
+
+But here goes.
+
